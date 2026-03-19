@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+<img width="785" height="538" alt="238123467-3b394ffa-4aea-4e56-a12b-eccab47afee5" src="https://github.com/user-attachments/assets/1182657d-6151-4f66-9f80-706df7f23d6f" /># Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -59,9 +59,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="785" height="538" alt="238123467-3b394ffa-4aea-4e56-a12b-eccab47afee5" src="https://github.com/user-attachments/assets/5c145505-abfd-4888-b9af-c6b70d129d1f" />
+<img width="833" height="536" alt="238123564-cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7" src="https://github.com/user-attachments/assets/8995c797-ac10-4b2e-9c36-5622690d8198" />
+<img width="826" height="546" alt="238123836-803397cb-5685-4bc2-82c2-6b1d1e3a2eec" src="https://github.com/user-attachments/assets/8ac2e61e-72b8-4d03-8c04-1e2e3ea30f2e" />
+<img width="807" height="548" alt="238123899-45ac4da8-f236-4e23-b0ce-a77aac6ac8b0" src="https://github.com/user-attachments/assets/4272b517-c2d6-4168-870e-1977562772b3" />
+<img width="520" height="480" alt="238123950-e00b82b4-9aff-400f-9c57-288254dc3cd2" src="https://github.com/user-attachments/assets/12afb5fe-4c8b-4dcd-b63d-f0a3e8671880" />
+<img width="1912" height="1143" alt="561520629-cccfc5ec-e2e5-4bd1-bc44-2b4866e6ff6f" src="https://github.com/user-attachments/assets/bd200875-9e6c-4dbd-8025-29e5f1829447" />
 
-### Name: 
-### Register Number:
+### Name: Aditya Jorim F S
+### Register Number:212225240004
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
